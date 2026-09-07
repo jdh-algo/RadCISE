@@ -76,6 +76,19 @@ RadCISE 是一个用于医学影像报告评价的流程包，核心思想是将
 
 请进入对应子目录查看 README，并根据自己的 LLM 服务配置 `.env` 或环境变量。
 
+## Contributors and Contact
+
+Main code contributor: Zhenhong Yang
+
+For collaboration or questions, please contact: yzh_med_mllm@outlook.com
+
+## 贡献者与联系
+
+代码主要贡献人：Zhenhong Yang
+
+合作或疑问请联系：yzh_med_mllm@outlook.com
+
+
 
 ## License
 
