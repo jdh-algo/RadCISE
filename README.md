@@ -84,7 +84,7 @@ For collaboration or questions, please contact: yzh_med_mllm@outlook.com
 
 ## 贡献者与联系
 
-代码主要贡献人：Zhenhong Yang
+代码主要贡献人：杨振宏
 
 合作或疑问请联系：yzh_med_mllm@outlook.com
 
